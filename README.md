@@ -3,8 +3,8 @@
  
 
 🍎 **iOS Developer**
-- 효율적이고 직관적인 프로그래밍을 좋아합니다.
-- 좋은 경험과 지식을 나누며 동료와 함께 성장하는 개발자가 되고 싶습니다.
+- 효율적이고 직관적인 프로그래밍을 위해 노력합니다.
+- 일단 겪어보는 것을 좋아합니다. 동료와 좋은 경험을 주고받는 개발자가 되고 싶습니다.
 - AR과 메타버스 관련 서비스에 관심을 가지고 있습니다.
 <p>
   <img alt="Velog" src ="https://img.shields.io/badge/Blog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@horeng2">
