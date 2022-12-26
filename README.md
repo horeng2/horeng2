@@ -1,6 +1,10 @@
 <p> 
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+
+
 </p>
 
 
@@ -18,6 +22,7 @@
  
  
 **📂 My Carrer**
+- 2022.12. ~ ㅤㅤㅤㅤㅤ  정육각 SS개발팀 근무
 - 2021.10. ~ 2022.03. [야곰아카데미 커리어 스타터 캠프 수료 🐻](https://www.yagom-academy.kr/camp/career-starter/ios)
 - 2021.08. ~ 2021.09. [야곰아카데미 코드 스타터 캠프 수료 🐻](https://www.yagom-academy.kr/camp/code-starter)
 - 2016.10. ~ 2021.09. 철원군청 공무원(전산7급) 근무 🏢
