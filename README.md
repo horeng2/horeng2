@@ -22,7 +22,7 @@
  
  
 **📂 My Carrer**
-- 2022.12. ~ ㅤㅤㅤㅤㅤ  정육각 SS개발팀 근무
+- 2022.12. ~ ㅤㅤㅤㅤㅤ  정육각 개발팀 근무
 - 2021.10. ~ 2022.03. [야곰아카데미 커리어 스타터 캠프 수료 🐻](https://www.yagom-academy.kr/camp/career-starter/ios)
 - 2021.08. ~ 2021.09. [야곰아카데미 코드 스타터 캠프 수료 🐻](https://www.yagom-academy.kr/camp/code-starter)
 - 2016.10. ~ 2021.09. 철원군청 공무원(전산7급) 근무 🏢
