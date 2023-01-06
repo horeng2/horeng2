@@ -2,9 +2,12 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
 
@@ -13,7 +16,7 @@
 
 
 
-### 🖼 **Frontend Developer**
+### (🖼&&🍎) **Frontend && iOS Developer**
 - 상호간의 피드백을 통해 함께하는 성장을 좋아합니다.
 - 새로운 분야에 대한 학습을 즐기며, 도전을 두려워하지 않습니다.
 - 개발 언어라는 도구를 다양하고 적절하게 활용하여 최적의 결과를 만들어내는 개발자가 되고싶습니다. 
