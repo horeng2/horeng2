@@ -1,9 +1,8 @@
-## KIM SEON YEONG 🐯
+<img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/iOS%20Developer-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
+## 안녕하세요! 김선영입니다. 👋
 
-### ✨ I AM  
-ㅤㅤ<img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>ㅤ&&ㅤ<img src="https://img.shields.io/badge/iOS%20Developer-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
 
-### ✨ Skills
+### 🐯 Skills
 ㅤㅤI can use:
 <p> 
 ㅤㅤ<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> 
@@ -23,11 +22,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   </p>
  
- ### ✨ Dev Log
- ㅤㅤ![](https://github-readme-stats.vercel.app/api?username=horeng2&hide=stars,issues&count_private=true&show_icons=true&theme=swift) ㅤ
+ ### 🐯 Dev Log
+ ㅤㅤ![](https://github-readme-stats-horeng2.vercel.app/api?username=horeng2&hide=stars,issues&count_private=true&show_icons=true&theme=swift) ㅤ
 
-ㅤㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horeng2&layout=demo&theme=swift)
-
+ㅤㅤ![Top Langs](https://github-readme-stats-horeng2.vercel.app/api/top-langs/?username=horeng2&langs_count=8&layout=demo&theme=swift)
 
   </br>
 
