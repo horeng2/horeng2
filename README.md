@@ -1,6 +1,7 @@
-<img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/iOS%20Developer-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
-## 안녕하세요! 김선영입니다. 👋
 
+## 안녕하세요! 김선영입니다. 👋
+### 🐯 I am
+ㅤㅤ<img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>ㅤ&&ㅤ<img src="https://img.shields.io/badge/%20iOS%20Developer%20-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
 
 ### 🐯 Skills
 ㅤㅤI can use:
