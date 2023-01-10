@@ -24,9 +24,10 @@
   </p>
  
  ### ✨ Dev Log
-ㅤㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horeng2&layout=compact&theme=swift)
+ ㅤㅤ![](https://github-readme-stats.vercel.app/api?username=horeng2&hide=stars,issues&count_private=true&show_icons=true&theme=swift) ㅤ
 
-ㅤㅤ![](https://github-readme-stats.vercel.app/api?username=horeng2&show_icons=true&theme=swift) ㅤ
+ㅤㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horeng2&layout=demo&theme=swift)
+
 
   </br>
 
