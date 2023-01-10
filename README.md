@@ -3,8 +3,6 @@
 ### ✨ I AM  
 ㅤㅤ<img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>ㅤ&&ㅤ<img src="https://img.shields.io/badge/iOS%20Developer-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
 
-</br>
-
 ### ✨ Skills
 ㅤㅤI can use:
 <p> 
@@ -24,10 +22,9 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   </p>
-  </br>
  
  ### ✨ Dev Log
-![](https://github-readme-stats.vercel.app/api?username=horeng2&show_icons=true&theme=swift) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horeng2&layout=compact&theme=swift)
+![](https://github-readme-stats.vercel.app/api?username=horeng2&show_icons=true&theme=swift) ㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horeng2&layout=compact&theme=swift)
 
   </br>
 
