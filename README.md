@@ -26,19 +26,11 @@
  ### 🐯 Dev Log
  ㅤㅤ![](https://github-readme-stats-horeng2.vercel.app/api?username=horeng2&hide=stars,issues&count_private=true&show_icons=true&theme=swift) ㅤ
 
-ㅤㅤ![Top Langs](https://github-readme-stats-horeng2.vercel.app/api/top-langs/?username=horeng2&langs_count=8&layout=demo&theme=swift)
+ㅤㅤ![Top Langs](https://github-readme-stats-horeng2.vercel.app/api/top-langs/?username=horeng2&langs_count=8&layout=compact&theme=swift)
 
   </br>
 
----
-### 📂 Carrer
-- 2022.12. ~ ㅤㅤㅤㅤㅤ  정육각 개발팀
-- 2021.10. ~ 2022.03. [야곰아카데미 커리어 스타터 캠프 🐻](https://www.yagom-academy.kr/camp/career-starter/ios)
-- 2021.08. ~ 2021.09. [야곰아카데미 코드 스타터 캠프 🐻](https://www.yagom-academy.kr/camp/code-starter)
-- 2016.10. ~ 2021.09. 전산7급 공무원(철원군청) 🏢
-</br>
 
-
-
+ㅤㅤ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoreng2&count_bg=%23F7DF1E&title_bg=%23F05138&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
    
 
