@@ -13,7 +13,9 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Handlebars.js-000000?style=flat-square&logo=Handlebars.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/>
+  
+  
 </p>
 
 ㅤㅤStudying:
