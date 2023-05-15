@@ -26,6 +26,7 @@
   </br>
 
 
-ㅤㅤ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoreng2&count_bg=%23F7DF1E&title_bg=%23F05138&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+<!-- ㅤㅤ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoreng2&count_bg=%23F7DF1E&title_bg=%23F05138&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
    
 
+ -->
