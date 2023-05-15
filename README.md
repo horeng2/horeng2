@@ -1,10 +1,13 @@
 
 ## 안녕하세요! 김선영입니다. 👋
 ### 🐯 I am
-ㅤㅤ<img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>ㅤ&&ㅤ<img src="https://img.shields.io/badge/%20iOS%20Developer%20-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
+ㅤㅤ<img src="https://img.shields.io/badge/%20iOS%20Developer%20-F05138?style=for-the-badge&logo=swift&logoColor=white"/> ㅤ&&ㅤ<img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### 🐯 Skills
-<p> 
+<p> ㅤㅤ<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-104bd8?style=flat-square&logo=Swift&logoColor=white"/>
+    </br>
 ㅤㅤ<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -13,10 +16,6 @@
 ㅤㅤ<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/>
-  </br>
-ㅤㅤ<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-104bd8?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
  
  ### 🐯 Dev Log
