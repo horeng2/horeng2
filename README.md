@@ -1,7 +1,7 @@
 
 ## 안녕하세요! 김선영입니다. 👋
 ### 🐯 I am
-ㅤㅤ<img src="https://img.shields.io/badge/%20iOS%20Developer%20-F05138?style=for-the-badge&logo=swift&logoColor=white"/> ㅤ&&ㅤ<img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ㅤㅤ<img src="https://img.shields.io/badge/%20iOS%20Developer%20-F05138?style=for-the-badge&logo=swift&logoColor=white"/> ㅤ
 
 ### 🐯 Skills
 <p> ㅤㅤ<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> 
